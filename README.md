@@ -27,7 +27,7 @@ Intereses:
 
 __*Filosofía de aprendizaje experiencial*__
 
-Como ya Confucio en el Siglo V a.C.:
+Como ya Confucio citaba en el Siglo V a.C.:
 >Escucho y olvido.
 >Veo y recuerdo.
 >Hago y aprendo
