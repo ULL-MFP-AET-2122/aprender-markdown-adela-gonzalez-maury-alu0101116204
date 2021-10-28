@@ -6,6 +6,8 @@
 
 ![Foto perfil](Adela.jpeg)
 
+Para obtener más información sobre el Grado estudiado [pulse aquí](https://eiic.ulpgc.es/index.php/estudios/2015-09-03-13-04-41/grado-en-ingenieria-en-diseno-industrial-y-desarrollo-de-productos)
+
 Idiomas | Nivel Acreditado
 ------------ | -------------
 Inglés | B1
@@ -14,8 +16,6 @@ Italiano | A2
 Intereses:
 * LSE
 * Deporte
-
-Si quieres ver el resto del currículum [pincha aquí](https://www.cvwizard.es/)
  
  Camino académico:
 1. Infantil
