@@ -6,7 +6,7 @@
 
 ![Foto perfil](Adela.jpeg)
 
-Para obtener más información sobre el Grado estudiado [pulse aquí](https://eiic.ulpgc.es/index.php/estudios/2015-09-03-13-04-41/grado-en-ingenieria-en-diseno-industrial-y-desarrollo-de-productos)
+Para obtener más información sobre el Grado estudiado [pulse aquí](https://eiic.ulpgc.es/index.php/estudios/2015-09-03-13-04-41/grado-en-ingenieria-en-diseno-industrial-y-desarrollo-de-productos) :brain:
 
 Idiomas | Nivel Acreditado
 ------------ | -------------
@@ -14,8 +14,8 @@ Inglés | B1
 Italiano | A2
 
 Intereses:
-* LSE
-* Deporte
+* LSE :raised_hand_with_fingers_splayed:
+* Deporte :lotus_position: :woman_cartwheeling:
  
  Camino académico:
 1. Infantil
@@ -30,6 +30,6 @@ __*Filosofía de aprendizaje experiencial*__
 Como ya Confucio citaba en el Siglo V a.C.:
 >Escucho y olvido.
 >Veo y recuerdo.
->Hago y aprendo
+>Hago y aprendo :yellow_heart:
 
 
