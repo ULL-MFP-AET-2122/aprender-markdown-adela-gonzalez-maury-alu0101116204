@@ -39,3 +39,19 @@ Como ya Confucio citaba en el Siglo V a.C.:
 
 
 [Master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-adela-gonzalez-maury-alu0101116204/blob/main/master.md)
+
+Código inline:
+```python
+{digitalWrite(led, HIGH)}
+```
+            
+Código coloreado:
+```python
+uint8_t boton = 6;
+uint8_t led = 8;
+float estado = 0;
+void setup() {
+    pinMode(boton, INPUT);
+    pinMode(led, OUTPUT);
+}
+```
